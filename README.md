@@ -1,3 +1,3 @@
 # Credit-Card-Checker
-![Credit-Card-Checker](invalidcardnumber.png)
-![Credit-Card-Checker](validcardnumber.png)
+![Credit-Card-Checker](invalid-card-number.png)
+![Credit-Card-Checker](valid-card-number.png)
