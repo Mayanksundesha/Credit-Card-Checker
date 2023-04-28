@@ -1,6 +1,6 @@
 # Credit-Card-Checker
-![CREDIT-CARD-CHECKER](PASSWORD_WEEK.png)
-![CREDIT-CARD-CHECKER](invalid-card-number.pdf)
+![CREDIT-CARD-CHECKER](invalid-card-number.png)
+![CREDIT-CARD-CHECKER](invalid-card-number.png)
 
 # Credit Card Checker Program in Python
 
