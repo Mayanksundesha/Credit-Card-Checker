@@ -1,14 +1,14 @@
-# Credit-Card-Checker
-![CREDIT-CARD-CHECKER](invalid-card-number.png)
-![CREDIT-CARD-CHECKER](invalid-card-number.png)
+# luhn-formula
+![luhn-formula](invalid-card-number.png)
+![luhn-formula](invalid-card-number.png)
 
-# Credit Card Checker Program in Python
+# luhn-formula Program in Python
 
 This program checks the validity of a credit card number using the Luhn algorithm. The Luhn algorithm, also known as the mod 10 algorithm, is a simple checksum formula used to validate various identification numbers, such as credit card numbers, IMEI numbers, and National Provider Identifier numbers.
 
 ## Usage
 
-To use this program, simply run the `credit_card_checker.py` file and enter the credit card number you want to check when prompted. The program will then use the Luhn algorithm to validate the credit card number and output whether the card is valid or invalid.
+To use this program, simply run the `luhn-formula.py` file and enter the credit card number you want to check when prompted. The program will then use the Luhn algorithm to validate the credit card number and output whether the card is valid or invalid.
 
 ## How it Works
 
